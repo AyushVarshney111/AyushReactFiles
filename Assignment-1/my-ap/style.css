@@ -1,0 +1,185 @@
+body{
+    background-color:lightsteelblue;
+  }
+  div.here1{
+   width:250px;
+    height:470px;
+    position: relative;
+      float:left;
+      background-color: white;
+      top:50px;
+      left:50px;
+  }
+  div.here11{
+   width:200px;
+    height:50px;
+    position: relative;
+    left:25px;
+    top:30px;
+      float:center;
+      background-color: yellow;
+      
+  }
+  div.here12{
+   width:200px;
+    height:50px;
+    position: relative;
+      float:left;
+      background-color: yellow;
+   top:43px;
+    left:25px;
+  }
+  div.here13{
+     width:200px;
+    height:130px;
+    position: relative;
+      float:left;
+      background-color: hotpink;
+   top:75px;
+    left:25px;
+  }
+  div.here14{
+     width:200px;
+    height:50px;
+    position: relative;
+      float:left;
+      background-color: royalblue;
+   top:110px;
+    left:25px;
+  }
+  
+  div.here15{
+     width:200px;
+    height:50px;
+    position: relative;
+      float:left;
+      background-color: royalblue;
+   top:122px;
+    left:25px;
+  }
+  div.here2{
+    width:500px;
+     height:470px;
+     position: relative;
+       float:left;
+       background-color: white;
+       top:50px;
+       left:90px;
+   }
+   div.here111{
+    width:210px;
+     height:112px;
+     position: relative;
+     left:25px;
+     top:30px;
+       float:left;
+       background-color: yellow;
+       
+   }
+   div.here121{
+    width:210px;
+     height:112px;
+     position: relative;
+       float:right;
+       background-color: yellow;
+    top:30px;
+     right:25px;
+   }
+   div.here131{
+      width:450px;
+     height:130px;
+     position: relative;
+       float:left;
+       background-color: hotpink;
+    top:64px;
+     left:25px;
+   }
+   div.here141{
+      width:450px;
+     height:50px;
+     position: relative;
+       float:left;
+       background-color: royalblue;
+    top:99px;
+     left:25px;
+   }
+   
+   div.here151{
+      width:450px;
+     height:50px;
+     position: relative;
+       float:left;
+       background-color: royalblue;
+    top:109px;
+     left:25px;
+   }
+   div.here3{
+    width:1000px;
+     height:470px;
+     position: relative;
+       float:center;
+       background-color: white;
+       top:50px;
+       left:901px;
+   }
+
+   div.here1111{
+    width:450px;
+     height:112px;
+     position: relative;
+     left:25px;
+     top:42px;
+       float:center;
+       background-color: yellow;
+       
+   }
+   div.here1211{
+    width:450px;
+     height:112px;
+     position: relative;
+       float:center;
+       background-color: yellow;
+       bottom:69px;
+left:500px;
+
+   }
+   div.here1311{
+      width:950px;
+     height:130px;
+     position: relative;
+       float:center;
+       background-color: hotpink;
+left:25px;
+bottom:50px;
+
+
+   }
+   div.here1411{
+      width:255px;
+    height:100px;
+     position: relative;
+       float:center;
+       background-color: royalblue;
+       left:25px;
+       bottom:px;
+   }
+   
+   div.here1511{
+      width:255px;
+     height:100px;
+     position: relative;
+       float:center;
+       background-color: royalblue;
+       bottom:100px;
+       left:340px;
+   }
+   div.here1611{
+    width:255px;
+   height:100px;
+   position: relative;
+     float:center;
+     background-color: royalblue;
+     bottom:100px;
+     left:700px;
+     bottom:200px;
+ }
